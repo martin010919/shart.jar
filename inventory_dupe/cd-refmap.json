@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "net/numaclient/numa/mixin/InGameHudMixin": {
+      "render(Lnet/minecraft/client/util/math/MatrixStack;F)V": "Lnet/minecraft/class_329;method_1753(Lnet/minecraft/class_4587;F)V"
+    },
+    "net/numaclient/numa/mixin/InventoryScreenMixin": {
+      "init": "Lnet/minecraft/class_490;method_25426()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/numaclient/numa/mixin/InGameHudMixin": {
+        "render(Lnet/minecraft/client/util/math/MatrixStack;F)V": "Lnet/minecraft/class_329;method_1753(Lnet/minecraft/class_4587;F)V"
+      },
+      "net/numaclient/numa/mixin/InventoryScreenMixin": {
+        "init": "Lnet/minecraft/class_490;method_25426()V"
+      }
+    }
+  }
+}

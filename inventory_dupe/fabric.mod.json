@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "cd",
+  "version": "1.0",
+
+  "name": "NUMA",
+  "authors": [
+    "A2H"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+  "license": "CC0-1.0",
+  "environment": "*",
+  "entrypoints": {},
+  "mixins": [
+    "numa.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "minecraft": "1.17.x"
+  }
+}
